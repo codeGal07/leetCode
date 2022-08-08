@@ -11,3 +11,4 @@ JAVA Solutions for Leetcode
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  [Java](src/leetcode/solutions/medianarray/MedianOfTwoSortedArrays.java)
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  [Java](src/leetcode/solutions/longestpalindromicsubstring/LongestPalindromicSubstring.java)
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) |  [Java](src/leetcode/solutions/zigzagconversion/ZigzagConversion.java)
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |  [Java](src/leetcode/solutions/reverseinteger/ReverseInteger.java)
