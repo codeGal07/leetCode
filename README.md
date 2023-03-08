@@ -13,3 +13,4 @@ JAVA Solutions for Leetcode
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) |  [Java](src/leetcode/solutions/zigzagconversion/ZigzagConversion.java)
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |  [Java](src/leetcode/solutions/reverseinteger/ReverseInteger.java)
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |  [Java](https://github.com/codeGal07/leetCode/blob/main/src/leetcode/solutions/stringtoInteger/StringToInteger.java)
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |  [Java](https://github.com/codeGal07/leetCode/blob/main/src/leetcode/solutions/palindromenumber/PalindromNumber.java)
